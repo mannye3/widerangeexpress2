@@ -106,7 +106,53 @@
         <div class="row text-md-left text-center">
             <div class="col-sm-12 col-md-6 copyright-links">  
               <a href="#">Privacy Policy</a>   <span>|</span>   <a href="#">CONTACT</a>   <span>|</span>   <a href="#">FAQS</a>
+               <div class="dropdown d-inline-flex lang-toggle shadow-sm">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp">
+              
+               
+                <span class="d-none d-lg-inline-block">USA 🇺🇸</span> <i class="icofont-rounded-down"></i>
+              </a>
+              <div class="dropdown-menu dropdownhover-bottom dropdown-menu-right" role="menu">
+                <a class="dropdown-item active" href="#">English<img src="images/us.svg" style="width: 10px; height: 10px;"></a>
+                <a class="dropdown-item" href="#">Afghanistan 🇦🇫</a>
+                <a class="dropdown-item" href="#">Syria 🇸🇾</a>
+                <a class="dropdown-item" href="#">Iraq 🇮🇶</a>
+                <a class="dropdown-item" href="#">Australia 🇦🇺</a>
+                <a class="dropdown-item" href="#">France 🇫🇷</a>
+                <a class="dropdown-item" href="#">New Zealand 🇳🇿</a>
+                <a class="dropdown-item" href="#">Brazil 🇧🇷 </a>
+                <a class="dropdown-item" href="#">China 🇨🇳 </a>
+                <a class="dropdown-item" href="#">USA 🇺🇸 </a>
+                <a class="dropdown-item" href="#">Uk 🇬🇧</a>
+                <a class="dropdown-item" href="#">Thailand 🇹🇭</a>
+                <a class="dropdown-item" href="#">Kuwait 🇰🇼</a>
+                <a class="dropdown-item" href="#">Mexico 🇲🇽</a>
+                <a class="dropdown-item" href="#">UAE 🇦🇪 </a>
+                <a class="dropdown-item" href="#">Italy 🇮🇹 </a>
+                <a class="dropdown-item" href="#">South Africa 🇿🇦</a>
+               
+
+              </div>
+            </div>     
             </div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
             <div class="col-sm-12 col-md-6 text-md-right text-center">
                  © 2019 ebbcourierlimited.com . All Rights Reserved
             </div>

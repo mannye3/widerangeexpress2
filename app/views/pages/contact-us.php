@@ -23,7 +23,7 @@
     <!-- Google Map Start -->
     <section class="map-bg">
       <div id="map-holder" class="pos-rel">
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.814224768029!2d0.06887591577030443!3d51.51662417963665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a61f8eacdc63%3A0x8b2a84acc01cd960!2s71+Roding+Rd%2C+London+E6+6LS%2C+UK!5e0!3m2!1sen!2sng!4v1564767546178!5m2!1sen!2sng" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.683768392271!2d-0.39789308423163616!3d51.46396227962804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487673230e83a867%3A0x49ea731bb552c050!2s9+Clements+Ct%2C+Hounslow+TW4+6EB%2C+UK!5e0!3m2!1sen!2sng!4v1565111728129!5m2!1sen!2sng" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>      
     </section>     
     <!-- Google Map Start -->
@@ -40,20 +40,52 @@
             <h2 class="h2-md mb-4 fw-7 txt-blue">Our Address</h2>
             <!-- Contact Detail Left -->
             <div class="contact-detail-shadow no-shadow mb-5 wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
-              
+              <h4>UK </h4>
               <div class="d-flex align-items-start items">
-                <i class="icofont-google-map"></i> <span>71 Roding Road London, E6, UK</span>
+                <i class="icofont-google-map"></i> <span>9 Clements Court, Hounslow,
+                        Middlesex 
+                        TW4 6EB,UK</span>
               </div>
-              <div class="d-flex align-items-start items">
+              <!-- <div class="d-flex align-items-start items">
                 <i class="icofont-phone"></i> <span>+1 (408) 786 - 5117</span>
-              </div>
+              </div> -->
               <div class="text-nowrap d-flex align-items-start items">
+                <i class="icofont-email"></i> <a href="#">info@widerangeexpress.com</a>
+              </div>
+            </div>
+
+
+
+            <div class="contact-detail-shadow no-shadow mb-5 wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
+              <h4>US</h4>
+              <div class="d-flex align-items-start items">
+                <i class="icofont-google-map"></i> <span>335 industrial Dr
+                      Placerville, CA 95667
+                      California, US</span>
+              </div>
+              <!-- <div class="d-flex align-items-start items">
+                <i class="icofont-phone"></i> <span>+1 (408) 786 - 5117</span>
+              </div> -->
+             <div class="text-nowrap d-flex align-items-start items">
                 <i class="icofont-email"></i> <a href="#">info@widerangeexpress.com</a>
               </div>
             </div>
             
             
-            <!-- Contact Detail Left -->
+              <div class="contact-detail-shadow no-shadow wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
+              <h4>Australia </h4>
+              <div class="d-flex align-items-start items">
+                <i class="icofont-google-map"></i> <span>5 Emerald Way South Melbourne
+                    VIC 3205
+                    Melbourne, Australia</span>
+              </div>
+             <!--  <div class="d-flex align-items-start items">
+                <i class="icofont-phone"></i> <span>+1 (408) 786 - 5117</span>
+              </div> -->
+              <div class="text-nowrap d-flex align-items-start items">
+                <i class="icofont-email"></i> <a href="#">info@widerangeexpress.com</a>
+              </div>
+            </div>
 
           </div>
 
