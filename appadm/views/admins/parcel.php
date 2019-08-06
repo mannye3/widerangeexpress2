@@ -1,5 +1,12 @@
 <?php require APPROOT . '/views/inc/header_inner.php'; ?>    
 
+<body>
+
+        <!-- Begin page -->
+        <div id="wrapper">
+
+            <?php require APPROOT . 'views/inc/navbar.php'; ?> 
+
 
 
             <!-- ============================================================== -->
@@ -25,7 +32,7 @@
                             </li>
                             <li>
                                 <div class="page-title-box">
-                                    <h4 class="page-title">Users  <!-- <?php echo $row["name"]; ?> --></h4>
+                                    <h4 class="page-title">Parcel  <!-- <?php echo $row["name"]; ?> --></h4>
                                     <ol class="breadcrumb">
                                         <!-- <li class="breadcrumb-item active">Welcome to Highdmin admin panel !</li> -->
                                     </ol>

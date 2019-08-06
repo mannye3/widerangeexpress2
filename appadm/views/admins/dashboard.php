@@ -1,13 +1,29 @@
 <?php require APPROOT . 'views/inc/header_inner.php'; ?>
 
- <div class="content-page">
+
+    <body>
+
+        <!-- Begin page -->
+        <div id="wrapper">
+
+ 
+<?php require APPROOT . 'views/inc/navbar.php'; ?>
+
+
+
+
+            <!-- ============================================================== -->
+            <!-- Start right Content here -->
+            <!-- ============================================================== -->
+
+            <div class="content-page">
 
                 <!-- Top Bar Start -->
                 <div class="topbar">
 
                    <nav class="navbar-custom">
 
-                     <?php require APPROOT . '/views/inc/inner_nav.php'; ?>
+                     <?php require APPROOT . 'views/inc/inner_nav.php'; ?>
 
                         <ul class="list-inline menu-left mb-0">
                             <li class="float-left">
@@ -78,4 +94,6 @@
 
                 </div> <!-- content -->
 
+
 <?php require APPROOT . 'views/inc/footer_inner.php'; ?>
+               

@@ -1,6 +1,11 @@
 <?php require APPROOT . '/views/inc/header_inner.php'; ?>    
 
+<body>
 
+        <!-- Begin page -->
+        <div id="wrapper">
+
+            <?php require APPROOT . 'views/inc/navbar.php'; ?>
 
             <!-- ============================================================== -->
             <!-- Start right Content here -->
@@ -101,8 +106,8 @@
                                                     <a href="javascript: void(0);" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-sm" data-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                     <div class="dropdown-menu dropdown-menu-right">
                                                         <a class="dropdown-item" href="<?php echo URLROOT; ?>adm/admins/create-parcel/<?php echo $users->email;  ?>"><i class="fa fa-search mr-2 text-muted font-18 vertical-middle"></i>Create Paracel</a>
-                                                        <a class="dropdown-item" href="<?php echo URLROOT; ?>/accounts/delete_user/<?php echo $users->id; ?>"  onclick="return confirm('Are you sure you want to DELETE USER ?')"><i class="mdi mdi-delete mr-2 text-muted font-18 vertical-middle"></i>Remove</a>
-                                                        <a class="dropdown-item" href="<?php echo URLROOT; ?>/accounts/user_staus/<?php echo $users->id; ?>"><i class="mdi mdi-star mr-2 font-18 text-muted vertical-middle"></i>Change Status</a>
+                                                        <!-- <a class="dropdown-item" href="<?php echo URLROOT; ?>/accounts/delete_user/<?php echo $users->id; ?>"  onclick="return confirm('Are you sure you want to DELETE USER ?')"><i class="mdi mdi-delete mr-2 text-muted font-18 vertical-middle"></i>Remove</a>
+                                                        <a class="dropdown-item" href="<?php echo URLROOT; ?>/accounts/user_staus/<?php echo $users->id; ?>"><i class="mdi mdi-star mr-2 font-18 text-muted vertical-middle"></i>Change Status</a> -->
                                                     </div>
                                                 </div>
                                             </td>

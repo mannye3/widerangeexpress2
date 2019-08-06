@@ -1,5 +1,11 @@
  <?php require APPROOT . '/views/inc/header_inner.php'; ?>    
 
+<body>
+
+        <!-- Begin page -->
+        <div id="wrapper">
+
+            <?php require APPROOT . 'views/inc/navbar.php'; ?>
 
 
  <div class="content-page">

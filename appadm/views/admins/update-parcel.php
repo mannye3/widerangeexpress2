@@ -1,4 +1,11 @@
-<?php require APPROOT . 'views/inc/header_inner.php'; ?>
+<?php require APPROOT . '/views/inc/header_inner.php'; ?>    
+
+<body>
+
+        <!-- Begin page -->
+        <div id="wrapper">
+
+            <?php require APPROOT . 'views/inc/navbar.php'; ?>
 
  <div class="content-page">
 
@@ -40,7 +47,7 @@
                     	  <?php flash_success('register_success'); ?>
 					  	    <?php flash_error('register_failure'); ?>
                         <div class="row">
-                            <div class="col-md-4">
+                            <div class="col-md-12">
                                 <!-- Personal-Information -->
                                <div class="card-box">
                                     <h4 class="header-title mt-0 mb-3">Create new parcel information </h4>

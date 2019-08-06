@@ -13,7 +13,7 @@
                                     </div>
 
                                    
-                                    <a href="logout.php" class="dropdown-item notify-item">
+                                    <a href="<?php echo URLROOT; ?>admins/logout" class="dropdown-item notify-item">
                                         <i class="fi-power"></i> <span>Logout</span>
                                     </a>
 
