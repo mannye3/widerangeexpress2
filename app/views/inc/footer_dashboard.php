@@ -21,7 +21,7 @@
   
 
   <!-- Main Footer Start -->
-   <footer class="wide-tb-70 bg-sky-blue pb-0">
+  <footer class="wide-tb-70 bg-sky-blue pb-0">
     <div class="container">
       <div class="row">
 
@@ -106,7 +106,53 @@
         <div class="row text-md-left text-center">
             <div class="col-sm-12 col-md-6 copyright-links">  
               <a href="#">Privacy Policy</a>   <span>|</span>   <a href="#">CONTACT</a>   <span>|</span>   <a href="#">FAQS</a>
+               <div class="dropdown d-inline-flex lang-toggle shadow-sm">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp">
+              
+               
+                <span class="d-none d-lg-inline-block">USA 🇺🇸</span> <i class="icofont-rounded-down"></i>
+              </a>
+              <div class="dropdown-menu dropdownhover-bottom dropdown-menu-right" role="menu">
+                <a class="dropdown-item active" href="#">English<img src="images/us.svg" style="width: 10px; height: 10px;"></a>
+                <a class="dropdown-item" href="#">Afghanistan 🇦🇫</a>
+                <a class="dropdown-item" href="#">Syria 🇸🇾</a>
+                <a class="dropdown-item" href="#">Iraq 🇮🇶</a>
+                <a class="dropdown-item" href="#">Australia 🇦🇺</a>
+                <a class="dropdown-item" href="#">France 🇫🇷</a>
+                <a class="dropdown-item" href="#">New Zealand 🇳🇿</a>
+                <a class="dropdown-item" href="#">Brazil 🇧🇷 </a>
+                <a class="dropdown-item" href="#">China 🇨🇳 </a>
+                <a class="dropdown-item" href="#">USA 🇺🇸 </a>
+                <a class="dropdown-item" href="#">Uk 🇬🇧</a>
+                <a class="dropdown-item" href="#">Thailand 🇹🇭</a>
+                <a class="dropdown-item" href="#">Kuwait 🇰🇼</a>
+                <a class="dropdown-item" href="#">Mexico 🇲🇽</a>
+                <a class="dropdown-item" href="#">UAE 🇦🇪 </a>
+                <a class="dropdown-item" href="#">Italy 🇮🇹 </a>
+                <a class="dropdown-item" href="#">South Africa 🇿🇦</a>
+               
+
+              </div>
+            </div>     
             </div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
             <div class="col-sm-12 col-md-6 text-md-right text-center">
                  © 2019 ebbcourierlimited.com . All Rights Reserved
             </div>
@@ -114,7 +160,6 @@
       </div>
     </div>
   </footer>
-  <!-- Main Footer End -->
   <!-- Main Footer End -->
 
   <!-- Search Popup Start -->
@@ -142,7 +187,6 @@
   <!-- Back To Top Start -->
   <a id="mkdf-back-to-top" href="#" class="off"><i class="icofont-rounded-up"></i></a>
   <!-- Back To Top End -->
-
 
   <script type="text/javascript">
 function googleTranslateElementInit() {
@@ -188,10 +232,6 @@ function googleTranslateElementInit() {
   <script type="text/javascript" src="<?php echo URLROOT; ?>/rev-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
   <script type="text/javascript" src="<?php echo URLROOT; ?>/rev-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
   <script type="text/javascript" src="<?php echo URLROOT; ?>/rev-slider/revolution/js/extensions/revolution.extension.video.min.js"></script>
-   <script src="<?php echo URLROOT; ?>plugins/datatables/jquery.dataTables.min.js"></script>
-    <script src="<?php echo URLROOT; ?>plugins/datatables/dataTables.bootstrap4.min.js"></script>
-    <script src="<?php echo URLROOT; ?>plugins/datatables/dataTables.responsive.min.js"></script>
-
 
   <script src="<?php echo URLROOT; ?>/js/site-custom.js"></script>   
 
@@ -205,7 +245,7 @@ function googleTranslateElementInit() {
       }else{
         revapi1078 = tpj("#rev_slider_1078_1").show().revolution({
           sliderType:"standard",
-jsFileLocation:"revolution/js/",
+jsFileLocation:"<?php echo URLROOT; ?>public/rev-slider/revolution/js/",
           sliderLayout:"fullscreen",
           dottedOverlay:"none",
           delay:9000,
@@ -304,48 +344,7 @@ jsFileLocation:"revolution/js/",
       }
     }); /*ready*/
   </script> 
-
-     
-       
-
-
-
-         <script type="text/javascript">
-            $(document).ready(function() {
-
-                // Default Datatable
-                $('#datatable').DataTable();
-
-                //Buttons examples
-                var table = $('#datatable-buttons').DataTable({
-                    lengthChange: false,
-                    buttons: ['copy', 'excel', 'pdf']
-                });
-
-                // Key Tables
-
-                $('#key-table').DataTable({
-                    keys: true
-                });
-
-                // Responsive Datatable
-                $('#responsive-datatable').DataTable();
-
-                // Multi Selection Datatable
-                $('#selection-datatable').DataTable({
-                    select: {
-                        style: 'multi'
-                    }
-                });
-
-                table.buttons().container()
-                        .appendTo('#datatable-buttons_wrapper .col-md-6:eq(0)');
-            } );
-
-        </script>
-     
   </body>
-
 
 </html>
 

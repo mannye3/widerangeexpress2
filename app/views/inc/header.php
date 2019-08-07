@@ -28,6 +28,14 @@
     <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/rev-slider/revolution/css/layers.css">
     <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/rev-slider/revolution/css/navigation.css">
 
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link href="<?php echo URLROOT; ?>/sliderResponsive.css" rel="stylesheet" type="text/css">
+
+   <!--  <link href="<?php echo URLROOT; ?>/css/slideWiz.css" rel="stylesheet" type="text/css">
+   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+    <script src="<?php echo URLROOT; ?>/js/framework/slideWiz.js"></script> -->
+    
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

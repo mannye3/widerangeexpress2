@@ -245,8 +245,8 @@ function googleTranslateElementInit() {
       }else{
         revapi1078 = tpj("#rev_slider_1078_1").show().revolution({
           sliderType:"standard",
-jsFileLocation:"<?php echo URLROOT; ?>public/rev-slider/revolution/js/",
-          sliderLayout:"fullscreen",
+          jsFileLocation:"<?php echo URLROOT; ?>public/rev-slider/revolution/js/",
+          sliderLayout:"auto",
           dottedOverlay:"none",
           delay:9000,
           navigation: {
@@ -346,7 +346,6 @@ jsFileLocation:"<?php echo URLROOT; ?>public/rev-slider/revolution/js/",
   </script> 
   </body>
 
-<!-- Mirrored from mannatstudio.com/html/logzee/index-5.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 01 Aug 2019 16:49:17 GMT -->
 </html>
 
 

@@ -157,6 +157,160 @@
                 style="z-index: 3; white-space: nowrap; font-weight: 800;background-color:rgba(41, 46, 49, 1.00);border-color:rgba(255, 255, 255, 0);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> READ MORE
             </div></a>
           </li>
+
+
+           <li data-index="rs-823" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="<?php echo URLROOT; ?>/rev-slider/revolution/assets/images/datcolor-100x50.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> 
+            <!-- MAIN IMAGE --> 
+            <img src="<?php echo URLROOT; ?>/images/xo2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina> 
+            <!-- LAYERS --> 
+            
+            <!-- LAYER NR. 1 -->
+            <div class="tp-caption NotGeneric-Title tp-resizeme" 
+                id="slide-3-layer-1" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="-120" 
+                data-width="['auto','auto','auto','auto']"
+                data-height="['auto','auto','auto','auto']"
+                data-transform_idle="o:1;"
+                
+                data-fontsize="['70','70','70','45']"
+                
+                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                data-start="700" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on" 
+
+                
+                style="z-index: 1; white-space: nowrap; color: #e64107; font-size: 5px;"><span class="slider-small">Bank on our experience
+            </div>
+            
+            <!-- LAYER NR. 2 -->
+            <div class="tp-caption NotGeneric-Title tp-resizeme" 
+               id="slide-3-layer-2" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="10" 
+                data-width="['auto','auto','auto','auto']"
+                data-height="['auto','auto','auto','auto']"
+                data-transform_idle="o:1;"
+                
+                data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                data-start="1400" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on" 
+
+                
+                style="z-index: 2; white-space: nowrap; font-size: 18px; line-height: 30px; color: #e64107"><br>We take the time and effort to know<br>each of our customer’s logistics needs.
+            </div>
+            
+            <!-- LAYER NR. 3 -->
+            <a href="index.php"><div class="tp-caption BigBold-Button rev-btn " 
+                id="slide-3-layer-3" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="100" 
+                data-width="['auto']"
+                data-height="['auto']"
+                data-transform_idle="o:1;"
+                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
+                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(41, 46, 49, 0);bc:rgba(255, 255, 255, 1.00);cursor:pointer;"
+                
+                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+                data-start="2100" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
+                data-responsive_offset="on" 
+                data-responsive="off"
+                
+                style="z-index: 3; white-space: nowrap; font-weight: 800;background-color:rgba(41, 46, 49, 1.00);border-color:rgba(255, 255, 255, 0);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> READ MORE
+            </div></a>
+          </li>
+
+
+
+
+           <li data-index="rs-824" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="<?php echo URLROOT; ?>/rev-slider/revolution/assets/images/datcolor-100x50.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> 
+            <!-- MAIN IMAGE --> 
+            <img src="<?php echo URLROOT; ?>/images/truck.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina> 
+            <!-- LAYERS --> 
+            
+            <!-- LAYER NR. 1 -->
+            <div class="tp-caption NotGeneric-Title tp-resizeme" 
+                id="slide-3-layer-1" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="-120" 
+                data-width="['auto','auto','auto','auto']"
+                data-height="['auto','auto','auto','auto']"
+                data-transform_idle="o:1;"
+                
+                data-fontsize="['70','70','70','45']"
+                
+                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                data-start="700" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on" 
+
+                
+                style="z-index: 1; white-space: nowrap; color: #e64107; font-size: 5px;"><span class="slider-small"><br>Open up your world <br>with EBB Courier Limited!
+            </div>
+            
+            <!-- LAYER NR. 2 -->
+            <div class="tp-caption NotGeneric-Title tp-resizeme" 
+               id="slide-3-layer-2" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="10" 
+                data-width="['auto','auto','auto','auto']"
+                data-height="['auto','auto','auto','auto']"
+                data-transform_idle="o:1;"
+                
+                data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                data-start="1400" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on" 
+
+                
+                style="z-index: 2; white-space: nowrap; font-size: 18px; line-height: 30px; color: #e64107"><br>We exist to get your goods quickly,<br> safely & reliably to anywhere <br>in the country or even across the world
+            </div>
+            
+            <!-- LAYER NR. 3 -->
+            <a href="index.php"><div class="tp-caption BigBold-Button rev-btn " 
+                id="slide-3-layer-3" 
+                data-x="left" data-hoffset="60" 
+                data-y="center" data-voffset="100" 
+                data-width="['auto']"
+                data-height="['auto']"
+                data-transform_idle="o:1;"
+                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
+                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(41, 46, 49, 0);bc:rgba(255, 255, 255, 1.00);cursor:pointer;"
+                
+                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power3.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
+                data-start="2100" 
+                data-splitin="none" 
+                data-splitout="none" 
+                data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
+                data-responsive_offset="on" 
+                data-responsive="off"
+                
+                style="z-index: 3; white-space: nowrap; font-weight: 800;background-color:rgba(41, 46, 49, 1.00);border-color:rgba(255, 255, 255, 0);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> READ MORE
+            </div></a>
+          </li>
+
+
         </ul>
         <div class="tp-bannertimer tp-bottom" style="height: 7px; background-color: rgba(255, 255, 255, 0.25);"></div>
       </div>
